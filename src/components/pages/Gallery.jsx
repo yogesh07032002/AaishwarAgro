@@ -2,27 +2,36 @@ import React, { useState } from "react";
 
 export const Gallery = () => {
   const images = [
-  "/gallery1.jpeg",
-  "/gallery2.jpeg",
-  "/gallery3.jpeg",
-  "/gallery4.jpeg",
-  "/gallery5.jpeg",
-  "/gallery6.jpeg",
-  "/gallery7.jpeg",
-  "/gallery8.jpeg",
-  "/gallery9.jpeg",
-  "/gallery10.jpeg",
-  "/gallery11.jpeg",
-  "/gallery12.jpeg",
-  "/gallery13.jpeg",
-  "/gallery14.jpeg",
-  "/gallery15.jpeg",
-  "/gallery16.jpeg",
-  "/gallery17.jpeg",
-  "/gallery18.jpeg",
-  "/gallery19.jpeg",
-  "/gallery20.jpeg",
-];
+    "/gallery21.jpeg",
+    "/gallery22.jpeg",
+    "/gallery23.jpeg",
+    "/gallery24.jpeg",
+    "/gallery25.jpeg",
+    "/gallery26.jpg",
+    "/gallery27.jpg",
+    "/gallery28.jpg",
+    "/gallery1.jpeg",
+    "/gallery2.jpeg",
+    "/gallery3.jpeg",
+    "/gallery4.jpeg",
+    "/gallery5.jpeg",
+    "/gallery6.jpeg",
+    "/gallery7.jpeg",
+    "/gallery8.jpeg",
+    "/gallery9.jpeg",
+    "/gallery10.jpeg",
+    "/gallery11.jpeg",
+    "/gallery12.jpeg",
+    "/gallery13.jpeg",
+    "/gallery14.jpeg",
+    "/gallery15.jpeg",
+    "/gallery16.jpeg",
+    "/gallery17.jpeg",
+    "/gallery18.jpeg",
+    "/gallery19.jpeg",
+    "/gallery20.jpeg",
+
+  ];
 
 
   const [selectedImage, setSelectedImage] = useState(null);
@@ -68,4 +77,3 @@ export const Gallery = () => {
     </section>
   );
 };
-    
