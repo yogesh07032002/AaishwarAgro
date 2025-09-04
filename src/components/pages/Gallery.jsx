@@ -30,6 +30,13 @@ export const Gallery = () => {
     "/gallery18.jpeg",
     "/gallery19.jpeg",
     "/gallery20.jpeg",
+    "/gallery29.jpeg",
+    "/gallery30.jpeg",
+    "/gallery31.jpeg",
+    "/gallery32.jpeg",
+    "/gallery33.jpeg",
+    "/gallery36.jpeg",
+    "/gallery35.jpeg",
 
   ];
 
